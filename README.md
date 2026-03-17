@@ -31,7 +31,7 @@ one step at a time.
 
 | project | what it is |
 |---|---|
-| [project one](Flow-State) | behavioral financial intelligence dashboard |
+| [flow-state w/ sreenaina] | behavioral financial intelligence dashboard |
 
 
 ---
