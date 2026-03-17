@@ -7,7 +7,7 @@ README
   ～～～～～～～～～～～～～～～～～～～～～～～～～～～～～～
 ```
 
-> *"the ocean is everything I want to be — beautiful, mysterious, wild, and free."*
+> *"life long learning."*
 
 hi i'm an accounting student who balances spreadsheets by day and chases sunsets by night.
 trying something new and figuring out coding
